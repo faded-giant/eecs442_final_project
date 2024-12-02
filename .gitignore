@@ -1,0 +1,5 @@
+sample_pokemon_scans/
+out/
+out_temp/
+in/
+.DS_Store
